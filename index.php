@@ -97,6 +97,11 @@
             ?>
         </tbody>
     </table>
+    <footer style="background-color: rgb(240, 240, 240); padding: 5px; margin-top: 50px;">
+        <div style="text-align: center;">
+            <p>Copyright <?php echo date("Y");  ?> | Created By Rajan Joriya</p>
+        </div>
+    </footer>
 </div>
 <script>
     $(document).ready(function(){
