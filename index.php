@@ -105,7 +105,7 @@
 </div>
 <footer style="background-color: rgb(240, 240, 240); padding: 10px; margin-top: 50px;">
     <div style="text-align: center;">
-        <p>Copyright <?php echo date("Y");  ?> | Created By Rajan Joriya</p>
+        <p>Copyright <?php echo date("Y");  ?> | Created By <b>Rajan Joriya</b></p>
     </div>
 </footer>
 <script>
