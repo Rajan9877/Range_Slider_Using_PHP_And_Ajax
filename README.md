@@ -1,4 +1,4 @@
-This is very simple project create by me(Rajan Joriya).
+This is very simple project create by me (Rajan Joriya).
 
 
 If you want to use this project in your big project then you are free to use it.
