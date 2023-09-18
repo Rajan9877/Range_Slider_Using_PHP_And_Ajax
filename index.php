@@ -14,9 +14,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
     <title>Range Slider To Fetch Data From Database</title>
     <style>
+        .container{
+            padding: 10px;
+        }
         *{
             font-family: 'Nunito Sans', sans-serif;
             font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 0;
         }
         .ui-state-default, 
         .ui-widget-content .ui-state-default, 
@@ -97,12 +102,12 @@
             ?>
         </tbody>
     </table>
-    <footer style="background-color: rgb(240, 240, 240); padding: 5px; margin-top: 50px;">
-        <div style="text-align: center;">
-            <p>Copyright <?php echo date("Y");  ?> | Created By Rajan Joriya</p>
-        </div>
-    </footer>
 </div>
+<footer style="background-color: rgb(240, 240, 240); padding: 10px; margin-top: 50px;">
+    <div style="text-align: center;">
+        <p>Copyright <?php echo date("Y");  ?> | Created By Rajan Joriya</p>
+    </div>
+</footer>
 <script>
     $(document).ready(function(){
 
